@@ -13,6 +13,6 @@ A single-page web application, built using the React framework, that displays a 
 1. Build the production ready optimised code. `npm run build`
 2. Deploy it to `gh-pages` branch by `npm run deploy`
 
-## If you want to add any extra informationg
+## If you want to add any extra information.
 1. fork the project 
 2. the download or clone the project :) thanks.
