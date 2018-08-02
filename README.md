@@ -15,4 +15,4 @@ A single-page web application, built using the React framework, that displays a 
 
 ## If you want to add any extra information.
 1. fork the project 
-2. the download or clone the project :) thanks.
+2. then download or clone the project :) thanks.
